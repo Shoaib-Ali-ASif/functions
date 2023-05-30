@@ -45,7 +45,6 @@ function checkIf50(numOne, numTwo) {
 }
 console.log(checkIf50(24, 25)); 
 
-// Check from the given integer, whether it is positive or negative. 
 
 // Check whether a given number is even or odd. 
 
